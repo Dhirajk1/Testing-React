@@ -11,7 +11,7 @@ class Main extends Component{
                         <body class='align'>
                             <img class='pfp' src="https://avatars.githubusercontent.com/u/25961063?v=4" alt="Github PFP"></img><h1>Dhiraj Kuttichirayil</h1>
                             <h4>Welcome to my React website!</h4>
-                            <h3 class='uiuc'>UIUC | Statistics & Computer Science '25<img class = 'gif' src="https://media0.giphy.com/avatars/illiniathletics/Dta08LjbKyko.GIF" alt="UIUC"></img></h3>
+                            <h3 class='uiuc'>UIUC | Statistics & Computer Science '25</h3>
                         </body>
                         </td>
                         <td>   
